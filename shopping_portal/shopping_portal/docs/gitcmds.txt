@@ -1,0 +1,12 @@
+git reset __code__revert__gitcommit
+git add . 
+git commit -m "feat: your feature"
+git commit -m "fix: your fix"
+git log 
+git branch 
+
+
+
+assemble conect Qt
+dsa
+   

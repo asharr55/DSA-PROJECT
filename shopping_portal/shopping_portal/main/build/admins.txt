@@ -1,0 +1,2 @@
+admin|1234|admin|10000|0|cash
+ashar|1234|admin|49500|499.995|card

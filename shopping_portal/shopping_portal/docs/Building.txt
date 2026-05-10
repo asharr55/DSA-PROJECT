@@ -1,0 +1,19 @@
+
+ test.pro file with the contents :
+QT -= gui
+QT += core
+CONFIG += console c++17
+SOURCES += main.cpp
+
+
+then after moving into the main directory run 
+
+
+
+
+qmake test.pro 
+
+make
+
+./test.app/Contents/MacOS/test
+
